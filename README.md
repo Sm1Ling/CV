@@ -7,21 +7,20 @@ Besides, such a way of self-representation allows HeadHunters to look through si
 # About Myself
 Here I will briefly tell about myself as a person. This will allow you to get to know me better as a person and give me the opportunity to locate all the soft-skills to a separate place.
 >I am still young and full of energy and passion to learn something new and develop in different areas to achieve any goals. It feels amazing to create and observe the results of my work as a creator. Perhaps, both this and my knowledge of mathematics led me to the path of programming.
-Regarding the qualities that are important for the work – I can emphasize this:
--- Organizational skills
--- Structured thinking
--- Pedantry
--- Perseverance
--- Persistence
--- Support of fellows
--- Ability to work in a team
--- Self-organization
--- Communication skills
--- Ability to find compromises
--- Self-learning
--- Maintaining a healthy lifestyle
-
->As a hobby, I love graphic design and draw using a graphic tablet. I like nature walks, do mountaineering, travel and learn the culture of different nations. Сhallenging myself and fighting my fears is what makes me feel alive, so I really have fancy for extreme sports. Within the house, I cook delicious dishes, learn various stories from movies, games or books and develop in the specialized field. I like to solve problems and see the fruits of my labor.
+Regarding the qualities that are important for the work – I can emphasize this: <p>
+-- Organizational skills <p>
+-- Structured thinking <p>
+-- Pedantry <p>
+-- Perseverance <p>
+-- Persistence <p>
+-- Support of fellows <p>
+-- Ability to work in a team <p>
+-- Self-organization <p>
+-- Communication skills <p>
+-- Ability to find compromises <p>
+-- Self-learning <p>
+-- Maintaining a healthy lifestyle <p>
+As a hobby, I love graphic design and draw using a graphic tablet. I like nature walks, do mountaineering, travel and learn the culture of different nations. Сhallenging myself and fighting my fears is what makes me feel alive, so I really have fancy for extreme sports. Within the house, I cook delicious dishes, learn various stories from movies, games or books and develop in the specialized field. I like to solve problems and see the fruits of my labor.
 
 
 
