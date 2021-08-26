@@ -1,2 +1,2 @@
-# CV
-GitHub-styled Repository for branched CV versions
+# CV for DataScience sphere
+
