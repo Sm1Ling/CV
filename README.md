@@ -38,6 +38,6 @@ As a hobby, I love graphic design and draw using a graphic tablet. I like nature
 - Outlook: aaarifkhanov@edu.hse.ru
 
 [//]: # (Тут проставлены ссылки)
-[DAnl]: <https://github.com/Sm1Ling/CV/blob/DataScience>
+[DAnl]: <https://github.com/Sm1Ling/CV/tree/DataScience>
 [Devl]: <>
 [Ovl]: <>
