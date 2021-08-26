@@ -24,14 +24,14 @@ As a hobby, I love graphic design and draw using a graphic tablet. I like nature
 
 
 
-### CV tematics
+# CV tematics
 | Target | Link |
 | ------ | ---- |
 | Data Analytics | [Link][DAnl] |
 | Developer | [---][Devl] |
 | Overall | [---][Ovl] |
 
-### Contacts
+# Contacts
 - [Вконтакте](https://vk.com/angrychilly)
 - [Facebook](https://www.facebook.com/profile.php?id=100005186413644)
 - [Telegram](https://t.me/Sm1Ling)
