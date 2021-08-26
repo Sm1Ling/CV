@@ -27,7 +27,7 @@ As a hobby, I love graphic design and draw using a graphic tablet. I like nature
 ### CV tematics
 | Target | Link |
 | ------ | ---- |
-| Data Analytics | [---][DAnl] |
+| Data Analytics | [https://github.com/Sm1Ling/CV/blob/DataScience/README.md][DAnl] |
 | Developer | [---][Devl] |
 | Overall | [---][Ovl] |
 
