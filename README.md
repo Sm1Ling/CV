@@ -29,7 +29,7 @@ As a hobby, I love graphic design and draw using a graphic tablet. I like nature
 | ------ | ---- |
 | Data Analytics | [Link][DAnl] |
 | Developer | [---][Devl] |
-| Overall | [---][Ovl] |
+| Overall | [Link][Ovl] |
 
 # Contacts
 - [Вконтакте](https://vk.com/angrychilly)
@@ -40,4 +40,4 @@ As a hobby, I love graphic design and draw using a graphic tablet. I like nature
 [//]: # (Тут проставлены ссылки)
 [DAnl]: <https://github.com/Sm1Ling/CV/tree/DataScience>
 [Devl]: <>
-[Ovl]: <>
+[Ovl]: <https://github.com/Sm1Ling/CV/tree/Overall>
