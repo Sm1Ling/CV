@@ -2,7 +2,7 @@
 
 # Overview
 >I have created the repository in order to organize all the bunch of CVs according to their purpose. 
-Besides, such a way of self-representation allows HeadHunters to look through sime additional materials applied in proper branches.
+Besides, such a way of self-representation allows HeadHunters to look through same additional materials applied in proper branches.
 
 # About Myself
 Here I will briefly tell about myself as a person. This will allow you to get to know me better as a person and give me the opportunity to locate all the soft-skills to a separate place.
